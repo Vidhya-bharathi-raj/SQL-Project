@@ -2,7 +2,7 @@
 
 ## [Mobiles Data Analysis using SQL](https://github.com/VidhyabharathirajC/SQL-Project)
 
-In this project, I employed SQL and MySQL to manipulate a CSV dataset of mobile data sourced from a public community. The project encompassed several stages:
+In this project, I employed SQL and MySQL to manipulate a CSV dataset of mobile data sourced from a public community.
 
 ### Data Definition and Data Transformation:
 Utilized **DROP** statements to eliminate extraneous records, streamlining the dataset for clarity and simplicity. Renamed columns for more intuitive access and manipulation through SQL queries.
