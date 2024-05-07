@@ -1,4 +1,4 @@
-#SQL Project
+# SQL Project
 
 ## [Mobiles Data Analysis using SQL](https://github.com/VidhyabharathirajC/SQL-Project)
 
