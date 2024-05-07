@@ -1,3 +1,5 @@
+#SQL Project
+
 ## [Mobiles Data Analysis using SQL](https://github.com/VidhyabharathirajC/SQL-Project)
 
 In this project, I employed SQL and MySQL to manipulate a CSV dataset of mobile data sourced from a public community. The project encompassed several stages:
